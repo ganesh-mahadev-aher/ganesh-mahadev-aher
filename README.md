@@ -24,7 +24,7 @@
 
 ---
 
-### Which Computer Programing languages does Ganesh uses :grey_question:
+### Which Computer Programing languages does Ganesh Mahadev Aher uses :grey_question:
 <div>
   <img src="https://github.com/ganesh-mahadev-aher/ganesh-mahadev-aher/blob/main/media/icons/c.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/ganesh-mahadev-aher/ganesh-mahadev-aher/blob/main/media/icons/embeddedc.svg" title="Embedded C" **alt="Embedded C" width="40" height="40"/>
@@ -32,7 +32,7 @@
   <img src="https://github.com/ganesh-mahadev-aher/ganesh-mahadev-aher/blob/main/media/icons/python.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
-### Which Computer Software Development tools does Ganesh uses :grey_question:
+### Which Computer Software Development tools does Ganesh Mahadev Aher uses :grey_question:
 <div>
   <img src="https://github.com/ganesh-mahadev-aher/ganesh-mahadev-aher/blob/main/media/icons/arduino.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://github.com/ganesh-mahadev-aher/ganesh-mahadev-aher/blob/main/media/icons/keil.svg" title="Keil" **alt="Keil" width="60" height="60"/>
@@ -42,4 +42,4 @@
 
 ---
 
-### Blog Posts typed by Ganesh :
+### Blog Posts typed by Ganesh Mahadev Aher :
